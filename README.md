@@ -22,4 +22,7 @@
 11. git remote add origin https://github repository 주소 : github 내 repository(프로젝트 공간)과 연결
 12. git push origin master : 파일 올리기
 
+# 2. Transfer Learning with Keras & Github 다시 시작_190904
+* jupyter notebook 파일 바로 올리면 이상해질 수 있으니 > jupyter nbconvert --to markdown notebook.ipynb
+* github 폴더를 착각해서 이전에 올렸던 것들 날려버림....
 
