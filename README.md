@@ -26,3 +26,6 @@
 * jupyter notebook 파일 바로 올리면 이상해질 수 있으니 > jupyter nbconvert --to markdown notebook.ipynb
 * github 폴더를 착각해서 이전에 올렸던 것들 날려버림....
 
+# 3. Github wiki 사용법_0905
+* 엄청 간단하다. 
+* 내 repository에 들어가고 > wiki 누르고 생성한 다음에 > 오른쪽 bar에서 계속 새로운 markdown 파일 생성해주면 끝!
