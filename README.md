@@ -29,3 +29,7 @@
 # 3. Github wiki 사용법_0905
 * 엄청 간단하다. 
 * 내 repository에 들어가고 > wiki 누르고 생성한 다음에 > 오른쪽 bar에서 계속 새로운 markdown 파일 생성해주면 끝!
+
+# 4. Voice recognition 다시 시작_191006
+* Tensorflow Speech Recognition Challenge Kernel 공부 중
+* 관련 공부 목록 올려놓음 (MFCC, 푸리에 변환)
