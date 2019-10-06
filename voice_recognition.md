@@ -1,3 +1,5 @@
+#### 원문 링크 : https://www.kaggle.com/davids1992/speech-representation-and-data-exploration
+
 # MFCC 개요 
 What is MFCC? MFCC는 오디오 신호에서 추출할 수 있는 feature로, 소리의 고유한 특징을 나타내는 수치입니다. 주로 음성 인식, 화자 인식, 음성 합성, 음악 장르 분류 등 오디오 도메인의 문제를 해결하는 데 사용됩니다.
 
